@@ -1,0 +1,23 @@
+{
+  "name": "api-moviles",
+  "version": "1.0.0",
+  "description": "API with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonmendex/api-moviles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonmendex/api-moviles/issues"
+  },
+  "homepage": "https://github.com/jhonmendex/api-moviles#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
